@@ -1,0 +1,14 @@
+{
+    "name": "gli-interview/the-honey-bird-test-php",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Terrence Munodei",
+            "email": "terrencemunodei@gmail.com"
+        }
+    ]
+}
